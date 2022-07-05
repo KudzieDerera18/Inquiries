@@ -1,4 +1,2 @@
 # Inquiries
-Inquiry and Proposal system
-
-First commit on gitub...lol
+Inquiry and Proposal System
